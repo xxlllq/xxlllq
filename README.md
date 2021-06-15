@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xiangxiaolin</h1>
 <h3 align="center">A developer from China <img src="https://visitor-badge.laobi.icu/badge?page_id=xxlllq" alt="xxlllq" /></h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxlllq" alt="xxlllq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxlllq&title=Stars,Followers,Repositories,Commit,Issues,PullRequest" alt="xxlllq" /></a> </p>
 
 - 🐧 Q  Q： **1101464221**
 
