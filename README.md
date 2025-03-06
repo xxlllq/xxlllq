@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi</h1>
 <h3 align="center">A developer from China <img src="https://visitor-badge.laobi.icu/badge?page_id=xxlllq" alt="xxlllq" /></h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xxlllq&title=Stars,Followers,Repositories,Commit,Issues,PullRequest" alt="xxlllq" /></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xxlllq&title=Stars,Followers,Repositories,Commit,Issues,PullRequest&column=6" alt="xxlllq" /></p>
 
 - 🐧 Q  Q： **2679450097**
 - 📫 邮箱： **meihuaxifei@qq.com**
